@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string-array name="currency">
+        <item>$</item>
+        <item>£</item>
+        <item>€</item>
+        <item>₹</item>
+    </string-array>
+</resources>
